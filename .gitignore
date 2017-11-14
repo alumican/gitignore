@@ -18,7 +18,6 @@ Icon
 *~.nib
 ._*
 *.webloc
-examples/ios/**/mediaAssets
 
 # Windows
 Thumbs.db
@@ -26,7 +25,6 @@ Desktop.ini
 
 # Android
 .csettings
-/libs/openFrameworksCompiled/project/android/paths.make
 
 # Android Studio
 *.iml
